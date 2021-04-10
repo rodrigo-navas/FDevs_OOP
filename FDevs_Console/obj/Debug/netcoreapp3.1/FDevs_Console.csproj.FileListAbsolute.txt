@@ -1,0 +1,16 @@
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console.exe
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console.deps.json
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console.runtimeconfig.json
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console.dll
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console.pdb
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console_ClassLibrary.dll
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\bin\Debug\netcoreapp3.1\FDevs_Console_ClassLibrary.pdb
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.AssemblyInfo.cs
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.csproj.CopyComplete
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.dll
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.pdb
+C:\Users\rodri\Desktop\FDevs\FDevs_Console\FDevs_Console\obj\Debug\netcoreapp3.1\FDevs_Console.genruntimeconfig.cache

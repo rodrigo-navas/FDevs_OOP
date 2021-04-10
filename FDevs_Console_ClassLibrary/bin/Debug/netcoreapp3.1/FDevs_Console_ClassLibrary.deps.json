@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FDevs_Console_ClassLibrary/1.0.0": {
+        "runtime": {
+          "FDevs_Console_ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FDevs_Console_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
