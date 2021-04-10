@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodri\\Desktop\\FDevs\\FDevs_Console\\FDevs_Console_ClassLibrary\\FDevs_Console_ClassLibrary.csproj",
+      "projectUniqueName": "D:\\Projetos\\GIT\\FDevs\\FDevs_OOP\\FDevs_Console_ClassLibrary\\FDevs_Console_ClassLibrary.csproj",
       "projectName": "FDevs_Console_ClassLibrary",
-      "projectPath": "C:\\Users\\rodri\\Desktop\\FDevs\\FDevs_Console\\FDevs_Console_ClassLibrary\\FDevs_Console_ClassLibrary.csproj",
+      "projectPath": "D:\\Projetos\\GIT\\FDevs\\FDevs_OOP\\FDevs_Console_ClassLibrary\\FDevs_Console_ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodri\\Desktop\\FDevs\\FDevs_Console\\FDevs_Console_ClassLibrary\\obj\\",
+      "outputPath": "D:\\Projetos\\GIT\\FDevs\\FDevs_OOP\\FDevs_Console_ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
